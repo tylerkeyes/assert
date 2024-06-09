@@ -1,3 +1,3 @@
-module github.com/tylerkeyes/go-assert
+module github.com/tylerkeyes/assert
 
 go 1.22.1
